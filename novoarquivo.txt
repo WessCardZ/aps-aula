@@ -1,3 +1,5 @@
 teste
 cd Documentos/GitHub
 echo 'teste' > novoarquivo.txt
+
+Testando
