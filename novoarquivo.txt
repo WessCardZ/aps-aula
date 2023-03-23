@@ -3,4 +3,3 @@ cd Documentos/GitHub
 echo 'teste' > novoarquivo.txt
 
 Testando ABlublee
-nowwwwwwwwwwwwwwwwwwwwwww
